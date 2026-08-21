@@ -112,16 +112,28 @@
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dwijeshh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dwijeshh&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwijeshh&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
 
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Dwijeshh&show_icons=true&theme=dark&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+
+  <br />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=Dwijeshh&theme=dark&hide_border=false" 
+    alt="GitHub Streak" 
+  />
+
+  <br />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwijeshh&layout=compact&theme=dark&hide_border=true" 
+    alt="Top Languages" 
+  />
+
+</div>
 ---
 
 ## 📫 Connect With Me
