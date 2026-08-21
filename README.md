@@ -114,24 +114,11 @@
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dwijeshh&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwijeshh&show_icons=true&theme=dark&hide_border=true)
 
-  <br />
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dwijeshh&theme=dark&hide_border=false)
 
-  <img
-    src="https://streak-stats.demolab.com/?user=Dwijeshh&theme=dark&hide_border=false"
-    alt="GitHub Streak"
-  />
-
-  <br />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dwijeshh&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dwijeshh&layout=compact&theme=dark&hide_border=true)
 
 </div>
 ---
