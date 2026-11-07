@@ -1,4 +1,4 @@
-![Dwijesh P — applications, cloud infrastructure, and parallel computing](assets/profile-masthead.svg)
+![Dwijesh P — applications, cloud infrastructure, and parallel computing](assets/profile-signature.svg)
 
 Parking spaces. Lab equipment. Pedestrian movement. My projects turn each into a system that can be mapped, tracked, or measured. I’m a Computer Science and Engineering student working across full-stack applications, AWS infrastructure, computer vision, and parallel computing.
 
