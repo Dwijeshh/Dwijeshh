@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Abstract crowd simulation with pedestrians moving toward a narrow exit">
-<rect width="1200" height="260" rx="16" fill="#17383c"/>
-<path d="M1005 22v84M1005 154v84" stroke="#f3eee5" stroke-width="13" stroke-linecap="square"/>
-<path d="M118 50h790M118 210h790" stroke="#7de2cd" stroke-opacity=".45" stroke-width="2"/>
-<g fill="#f3eee5" opacity=".9"><circle cx="140" cy="91" r="11"/><circle cx="140" cy="141" r="11"/><circle cx="140" cy="190" r="11"/><circle cx="210" cy="70" r="11"/><circle cx="210" cy="115" r="11"/><circle cx="210" cy="165" r="11"/><circle cx="210" cy="206" r="11"/><circle cx="280" cy="89" r="11"/><circle cx="280" cy="137" r="11"/><circle cx="280" cy="183" r="11"/><circle cx="350" cy="69" r="11"/><circle cx="350" cy="117" r="11"/><circle cx="350" cy="164" r="11"/><circle cx="350" cy="207" r="11"/><circle cx="425" cy="87" r="11"/><circle cx="425" cy="139" r="11"/><circle cx="425" cy="189" r="11"/><circle cx="500" cy="105" r="11"/><circle cx="500" cy="155" r="11"/><circle cx="580" cy="122" r="11"/><circle cx="580" cy="173" r="11"/></g>
-<g fill="#e36d4d"><circle cx="675" cy="105" r="12"/><circle cx="675" cy="149" r="12"/><circle cx="726" cy="117" r="12"/><circle cx="726" cy="159" r="12"/><circle cx="779" cy="129" r="12"/><circle cx="833" cy="129" r="12"/><circle cx="885" cy="129" r="12"/></g>
-<path d="M940 129h185" stroke="#7de2cd" stroke-width="8" stroke-linecap="round"/>
-<path d="M1099 105l31 24-31 24" fill="none" stroke="#7de2cd" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
