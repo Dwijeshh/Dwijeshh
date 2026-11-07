@@ -65,13 +65,14 @@ The chart uses [documented local medians](https://github.com/Dwijeshh/pcap-crowd
 
 ## Currently
 
-- **Building:** [current project or feature]
+- **Building:** [DocMind](https://github.com/Dwijeshh/docmind), an evidence-grounded document Q&A system for larger PDF, DOCX, and TXT collections. I’m working from an architecture and documentation scaffold; the API, UI, retrieval pipeline, and evaluation harness are planned.
 - **Learning:** [specific topic]
 - **Looking for:** [role, collaboration, or “not currently looking”]
 
 ## Recently updated
 
 <!-- recent-repos:start -->
+- [DocMind](https://github.com/Dwijeshh/docmind) — architecture and documentation scaffold; last pushed 7 Nov 2026
 - [ParkEase](https://github.com/Dwijeshh/ParkEase) — last pushed 5 Nov 2026
 - [Parallel Crowd-Crush Risk Simulation](https://github.com/Dwijeshh/pcap-crowd-crush-simulation) — last pushed 5 Nov 2026
 - [Lab Asset Management](https://github.com/Dwijeshh/lab_asset_management2) — last pushed 5 Nov 2026
@@ -81,4 +82,4 @@ The chart uses [documented local medians](https://github.com/Dwijeshh/pcap-crowd
 
 ## Contact
 
-[Email](mailto:rorozoro701@gmail.com) · [LinkedIn](https://linkedin.com/in/meowmeowww)
+[Email](mailto:dwijeshamin@gmail.com) · [LinkedIn](https://linkedin.com/in/meowmeowww)
