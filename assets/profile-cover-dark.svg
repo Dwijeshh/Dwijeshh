@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dwijesh P</title>
+  <desc id="desc">Deep teal profile cover with Dwijesh P in warm serif type and an abstract D-shaped route.</desc>
+  <rect width="1200" height="320" rx="18" fill="#17363c"/>
+  <path d="M780 0h402a18 18 0 0 1 18 18v284a18 18 0 0 1-18 18H780z" fill="#25484b"/>
+  <text x="62" y="187" fill="#f2eee6" font-family="Georgia, Times New Roman, serif" font-size="104" font-weight="700" letter-spacing="-3">Dwijesh P.</text>
+  <path d="M65 249h650" stroke="#f2eee6" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M65 249h183" stroke="#e46d4f" stroke-width="8" stroke-linecap="square"/>
+  <path d="M860 64v192h94c94 0 150-35 150-96S1048 64 954 64z" fill="none" stroke="#8ed9cc" stroke-width="16" stroke-linejoin="round"/>
+  <circle cx="860" cy="64" r="12" fill="#e46d4f"/>
+  <circle cx="860" cy="256" r="12" fill="#e46d4f"/>
+  <path d="M834 160h152" stroke="#f2eee6" stroke-opacity=".55" stroke-width="2" stroke-dasharray="7 10"/>
+</svg>
