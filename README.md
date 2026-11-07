@@ -34,20 +34,14 @@
 
 ## 💼 Projects
 
-### Academic Publication Management System (APMS)
-- Full-stack web application built with PHP, MySQL, Java, and JDBC
-- Manages academic publications through a structured database system
-- Implements user authentication and role-based access
+### [ParkEase](https://github.com/Dwijeshh/ParkEase)
+Prototype intelligent parking system for commercial buildings. It combines a Flutter customer app, a Node.js/Express backend, PostgreSQL, graph-based slot allocation and routing, and computer-vision occupancy monitoring.
 
-### Badminton Video Analysis System
-- Hybrid deep learning project combining YOLOv8 and MediaPipe
-- Uses computer vision for badminton video analysis and performance insights
-- Includes object detection, pose estimation, and movement tracking
+### [Lab Asset Management](https://github.com/Dwijeshh/lab_asset_management2)
+Next.js application for tracking laboratory assets across MAHE institutions. It supports role-based inventory management, search and exports, borrowing requests and loans, notifications, and an audit trail. Built with TypeScript, PostgreSQL, Drizzle ORM, and Tailwind CSS.
 
-### IoT & Security Projects
-- Built smart monitoring systems using IoT sensors
-- Worked on electricity theft detection using machine learning
-- Developed intrusion-detection system concepts for network security
+### [Parallel Crowd-Crush Risk Simulation](https://github.com/Dwijeshh/pcap-crowd-crush-simulation)
+Collaborative pedestrian simulation comparing sequential CPU, OpenMP, MPI, CUDA, and hybrid backends. I contributed the OpenMP backend, shared metrics, hybrid integration, live comparison UI, benchmarks, and report studies. The risk labels are simulation indicators, not predictions of real-world injury outcomes.
 
 ---
 
