@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+  <title id="title">Five-backend speedup comparison</title>
+  <desc id="desc">Local median movement-time speedup relative to sequential: sequential 1.00 times, OpenMP 3.03, MPI 1.98, CUDA 20.54, hybrid 10.00. Timing scopes differ by backend.</desc>
+  <rect width="900" height="390" rx="16" fill="#17363c"/>
+  <text x="42" y="49" fill="#f2eee6" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">LOCAL MOVEMENT-TIME SPEEDUP</text>
+  <text x="42" y="77" fill="#b7d2ce" font-family="Arial, Helvetica, sans-serif" font-size="20">Sequential median ÷ backend median</text>
+  <g fill="#f2eee6" font-family="Arial, Helvetica, sans-serif" font-size="25">
+    <text x="43" y="130">Sequential</text><text x="43" y="185">OpenMP</text><text x="43" y="240">MPI</text><text x="43" y="295">CUDA</text><text x="43" y="350">Hybrid</text>
+  </g>
+  <g>
+    <rect x="210" y="105" width="28" height="30" rx="3" fill="#7d9c9b"/>
+    <rect x="210" y="160" width="87" height="30" rx="3" fill="#8ed9cc"/>
+    <rect x="210" y="215" width="57" height="30" rx="3" fill="#8ed9cc"/>
+    <rect x="210" y="270" width="590" height="30" rx="3" fill="#e46d4f"/>
+    <rect x="210" y="325" width="287" height="30" rx="3" fill="#8ed9cc"/>
+  </g>
+  <g fill="#f2eee6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+    <text x="250" y="129">1.00×</text><text x="309" y="184">3.03×</text><text x="279" y="239">1.98×</text><text x="812" y="294">20.54×</text><text x="509" y="349">10.00×</text>
+  </g>
+</svg>
