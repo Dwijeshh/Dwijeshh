@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">ParkEase route diagram</title>
+  <desc id="desc">A highlighted route connects entry, two junctions, and an assigned parking space; a secondary route is shown as a dotted line.</desc>
+  <rect width="900" height="250" rx="16" fill="#f2eee6"/>
+  <path d="M105 121h198l146-68h238" fill="none" stroke="#17363c" stroke-opacity=".28" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M303 121l146 75h238" fill="none" stroke="#17363c" stroke-opacity=".35" stroke-width="5" stroke-dasharray="9 12" stroke-linecap="round"/>
+  <path d="M105 121h198l146-68h238" fill="none" stroke="#2d9c92" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="105" cy="121" r="17" fill="#17363c" stroke="#f2eee6" stroke-width="5"/>
+  <circle cx="303" cy="121" r="12" fill="#f2eee6" stroke="#2d9c92" stroke-width="7"/>
+  <circle cx="449" cy="53" r="12" fill="#f2eee6" stroke="#2d9c92" stroke-width="7"/>
+  <rect x="687" y="25" width="94" height="57" rx="5" fill="#e46d4f"/>
+  <path d="M688 53h31" stroke="#2d9c92" stroke-width="9" stroke-linecap="round"/>
+  <text x="58" y="191" fill="#17363c" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">ENTRY</text>
+  <text x="251" y="191" fill="#17363c" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">JUNCTION</text>
+  <text x="655" y="128" fill="#17363c" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">ASSIGNED SLOT</text>
+</svg>
