@@ -26,6 +26,8 @@ jobs:
           package-manager-cache: false
 
       - name: Refresh recently updated projects
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/update-activity.mjs
 
       - name: Commit only if activity changed
