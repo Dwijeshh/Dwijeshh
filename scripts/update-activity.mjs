@@ -40,6 +40,7 @@ async function fetchProject(project) {
     headers: {
       Accept: "application/vnd.github+json",
       "User-Agent": "dwijeshh-profile-activity",
+      Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
     },
   });
   if (!response.ok) throw new Error(`GitHub API returned ${response.status} for ${project.repo}`);
