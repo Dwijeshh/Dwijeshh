@@ -1,4 +1,4 @@
-![Dwijesh P — applications, cloud infrastructure, and parallel computing](assets/profile-signature.svg)
+![Dwijesh P profile cover](assets/profile-cover.svg)
 
 Parking spaces. Lab equipment. Pedestrian movement. My projects turn each into a system that can be mapped, tracked, or measured. I’m a Computer Science and Engineering student working across full-stack applications, AWS infrastructure, computer vision, and parallel computing.
 
@@ -8,7 +8,6 @@ Parking spaces. Lab equipment. Pedestrian movement. My projects turn each into a
 
 ### [ParkEase](https://github.com/Dwijeshh/ParkEase)
 
-![Parking floor plan with a highlighted route to an open space](assets/parkease.svg)
 **Parking navigation and occupancy monitoring**
 
 A prototype for parking facilities with multiple entrances. It represents the facility as a graph, assigns an available slot for a chosen destination, and shows the route in a Flutter app. Computer vision supports parking-bay occupancy monitoring.
@@ -17,7 +16,6 @@ A prototype for parking facilities with multiple entrances. It represents the fa
 
 ### [Lab Asset Management](https://github.com/Dwijeshh/lab_asset_management2)
 
-![Laboratory inventory illustration showing an asset moving between locations](assets/lab-assets.svg)
 **A clearer view of equipment across institutions**
 
 A web application for MAHE laboratory staff to manage inventory, export asset lists, request loans and transfers, and track approvals through role-based workflows and an audit trail.
@@ -26,7 +24,6 @@ A web application for MAHE laboratory staff to manage inventory, export asset li
 
 ### [Parallel Crowd-Crush Risk Simulation](https://github.com/Dwijeshh/pcap-crowd-crush-simulation)
 
-![Crowd simulation illustration with pedestrians moving toward an exit](assets/crowd-simulation.svg)
 **One movement model, five computing backends**
 
 A collaborative pedestrian simulation comparing sequential CPU, OpenMP, MPI, CUDA, and hybrid implementations. I contributed the OpenMP backend, shared metrics, hybrid integration, the live comparison interface, benchmarks, and report studies.
