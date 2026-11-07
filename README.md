@@ -1,52 +1,50 @@
-![Dwijesh P — software and systems](assets/profile-banner.svg)
+![Dwijesh P — applications, cloud infrastructure, and parallel computing](assets/profile-banner.svg)
 
-### I build software that meets the physical world.
+I’m a Computer Science and Engineering student building software for real operational problems. My work spans full-stack applications, AWS infrastructure, computer vision, and parallel computing.
 
-I'm a Computer Science and Engineering student working across full-stack development, cloud infrastructure, and parallel computing. My recent projects tackle parking navigation, laboratory asset workflows, and pedestrian simulation.
+**[Projects](#selected-work)** &nbsp;·&nbsp; **[Experience](#experience)** &nbsp;·&nbsp; **[Contact](#contact)**
 
-[Explore my work](#work-in-focus) · [Connect with me](#connect)
+## Selected work
 
----
+### [ParkEase](https://github.com/Dwijeshh/ParkEase)
+**Parking navigation and occupancy monitoring**
 
-## Work in focus
+A prototype for parking facilities with multiple entrances. It represents the facility as a graph, assigns an available slot for a chosen destination, and shows the route in a Flutter app. Computer vision supports parking-bay occupancy monitoring.
 
-### 01 / [ParkEase](https://github.com/Dwijeshh/ParkEase) — finding the right space
+`Flutter` &nbsp; `Node.js / Express` &nbsp; `PostgreSQL` &nbsp; `OpenCV`
 
-A prototype for parking facilities with multiple entrances. It models the facility as a graph, allocates an available slot based on the driver's destination, and displays a route in a Flutter app. A computer-vision component supports occupancy monitoring.
+### [Lab Asset Management](https://github.com/Dwijeshh/lab_asset_management2)
+**A clearer view of equipment across institutions**
 
-`Flutter` · `Node.js / Express` · `PostgreSQL` · `OpenCV`
+A web application for MAHE laboratory staff to manage inventory, export asset lists, request loans and transfers, and track approvals through role-based workflows and an audit trail.
 
-### 02 / [Lab Asset Management](https://github.com/Dwijeshh/lab_asset_management2) — making equipment visible
+`Next.js` &nbsp; `TypeScript` &nbsp; `PostgreSQL` &nbsp; `Drizzle ORM`
 
-A system for managing laboratory assets across MAHE institutions. Staff can track inventory, export asset lists, request loans and transfers, and follow approvals and changes through role-based workflows.
+### [Parallel Crowd-Crush Risk Simulation](https://github.com/Dwijeshh/pcap-crowd-crush-simulation)
+**One movement model, five computing backends**
 
-`Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle ORM`
+A collaborative pedestrian simulation comparing sequential CPU, OpenMP, MPI, CUDA, and hybrid implementations. I contributed the OpenMP backend, shared metrics, hybrid integration, the live comparison interface, benchmarks, and report studies.
 
-### 03 / [Parallel Crowd-Crush Risk Simulation](https://github.com/Dwijeshh/pcap-crowd-crush-simulation) — comparing ways to compute
+`C++` &nbsp; `OpenMP` &nbsp; `MPI` &nbsp; `CUDA`
 
-A collaborative pedestrian simulation with sequential CPU, OpenMP, MPI, CUDA, and hybrid backends. I contributed the OpenMP backend, shared metrics, hybrid integration, live comparison interface, benchmarks, and report studies.
+*The simulation’s risk labels are model indicators and have not been calibrated to real-world injury outcomes.*
 
-`C++` · `OpenMP` · `MPI` · `CUDA`
+## Experience
 
-*The simulation's risk labels are model indicators; they have not been calibrated to real pedestrian injury outcomes.*
+**AWS Cloud Solution Architect Intern** · CloudCapt Technologies  
+*January–April 2025*
 
----
+- Worked with EC2, S3, VPC, RDS, Application Load Balancer, IAM, and security groups.
+- Deployed websites, configured domains and SSL certificates, and designed a three-tier cloud architecture.
 
-## Beyond the projects
+## Technical range
 
-**AWS Cloud Solution Architect Intern · CloudCapt Technologies**  
-January–April 2025
+| Area | Technologies |
+| :--- | :--- |
+| Application development | Java, Python, JavaScript, TypeScript, PHP, SQL, React, Next.js, Node.js, Flutter |
+| Data and infrastructure | PostgreSQL, MySQL, AWS, Docker, Linux, Apache2, Nginx, Git |
+| Computing and vision | OpenMP, MPI, CUDA, OpenCV, PyTorch, TensorFlow |
 
-Worked with EC2, S3, VPC, RDS, Application Load Balancer, IAM, and security groups. I deployed websites, configured domains and SSL certificates, and designed a three-tier cloud architecture.
-
-## Tools I use
-
-| Building applications | Infrastructure and computing |
-| --- | --- |
-| Java, Python, JavaScript, TypeScript, PHP, SQL | AWS, Docker, Linux, Git |
-| React, Next.js, Node.js, Flutter | OpenMP, MPI, CUDA, OpenCV |
-| PostgreSQL, MySQL | Apache2, Nginx, PyTorch, TensorFlow |
-
-## Connect
+## Contact
 
 [Email](mailto:dwijeshamin@gmail.com) · [LinkedIn](https://linkedin.com/in/meowmeowww)
