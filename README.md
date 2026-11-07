@@ -66,8 +66,8 @@ The chart uses [documented local medians](https://github.com/Dwijeshh/pcap-crowd
 ## Currently
 
 - **Building:** [DocMind](https://github.com/Dwijeshh/docmind), an evidence-grounded document Q&A system for larger PDF, DOCX, and TXT collections. I’m working from an architecture and documentation scaffold; the API, UI, retrieval pipeline, and evaluation harness are planned.
-- **Learning:** [specific topic]
-- **Looking for:** [role, collaboration, or “not currently looking”]
+- **Learning:** hybrid retrieval with pgvector and full-text search, citation-grounded answers, and RAG evaluation with Recall@k and MRR.
+- **Looking for:** Not currently looking.
 
 ## Recently updated
 
