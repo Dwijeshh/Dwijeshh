@@ -1,4 +1,4 @@
-![Dwijesh P — applications, cloud infrastructure, and parallel computing](assets/profile-banner.svg)
+![Dwijesh P — applications, cloud infrastructure, and parallel computing](assets/profile-masthead.svg)
 
 I’m a Computer Science and Engineering student building software for real operational problems. My work spans full-stack applications, AWS infrastructure, computer vision, and parallel computing.
 
