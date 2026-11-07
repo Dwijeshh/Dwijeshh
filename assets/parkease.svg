@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Abstract parking floor plan with a highlighted route to an open space">
+<rect width="1200" height="260" rx="16" fill="#f3eee5"/>
+<path d="M0 130h1200" stroke="#20313b" stroke-width="62"/>
+<path d="M0 130h1200" stroke="#f3eee5" stroke-width="2" stroke-dasharray="18 19" opacity=".55"/>
+<g fill="none" stroke="#20313b" stroke-width="4"><path d="M100 24v66h100V24M240 24v66h100V24M380 24v66h100V24M520 24v66h100V24M660 24v66h100V24M800 24v66h100V24M940 24v66h100V24"/><path d="M100 236v-66h100v66M240 236v-66h100v66M380 236v-66h100v66M520 236v-66h100v66M660 236v-66h100v66M800 236v-66h100v66M940 236v-66h100v66"/></g>
+<rect x="520" y="24" width="100" height="66" fill="#e36d4d"/>
+<path d="M12 130h460q98 0 98-40" fill="none" stroke="#7de2cd" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="25" cy="130" r="14" fill="#7de2cd"/>
+<circle cx="570" cy="58" r="14" fill="#20313b" stroke="#f3eee5" stroke-width="5"/>
+<path d="M1075 25v210" stroke="#20313b" stroke-width="2" opacity=".4"/>
+<path d="M1102 112l30 18-30 18" fill="none" stroke="#20313b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
