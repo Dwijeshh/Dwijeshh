@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Lab Asset Management approval flow</title>
+  <desc id="desc">A technician requests an asset, a main technician reviews it, and approval creates a loan record.</desc>
+  <rect width="900" height="250" rx="16" fill="#17363c"/>
+  <g fill="#f2eee6" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <rect x="29" y="72" width="180" height="101" rx="7" fill="#f2eee6"/>
+    <text x="119" y="117" fill="#17363c" font-size="26" font-weight="700">TECHNICIAN</text>
+    <text x="119" y="148" fill="#36545a" font-size="20">assigned lab</text>
+    <rect x="248" y="72" width="180" height="101" rx="7" fill="#f2eee6"/>
+    <text x="338" y="117" fill="#17363c" font-size="26" font-weight="700">REQUEST</text>
+    <text x="338" y="148" fill="#36545a" font-size="20">device + quantity</text>
+    <rect x="467" y="72" width="180" height="101" rx="7" fill="#f2eee6"/>
+    <text x="557" y="117" fill="#17363c" font-size="25" font-weight="700">MAIN TECH</text>
+    <text x="557" y="148" fill="#36545a" font-size="20">review</text>
+    <rect x="686" y="72" width="185" height="101" rx="7" fill="#e46d4f"/>
+    <text x="778" y="117" fill="#17363c" font-size="25" font-weight="700">APPROVED</text>
+    <text x="778" y="148" fill="#17363c" font-size="20">loan record</text>
+  </g>
+  <g fill="none" stroke="#8ed9cc" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M214 123h25m-11-11 11 11-11 11"/>
+    <path d="M433 123h25m-11-11 11 11-11 11"/>
+    <path d="M652 123h25m-11-11 11 11-11 11"/>
+  </g>
+</svg>
