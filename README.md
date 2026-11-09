@@ -72,7 +72,6 @@ The chart uses [documented local medians](https://github.com/Dwijeshh/pcap-crowd
 ## Recently updated
 
 <!-- recent-repos:start -->
-- [DocMind](https://github.com/Dwijeshh/docmind) — architecture and documentation scaffold; last pushed 7 Nov 2026
 - [ParkEase](https://github.com/Dwijeshh/ParkEase) — last pushed 5 Nov 2026
 - [Parallel Crowd-Crush Risk Simulation](https://github.com/Dwijeshh/pcap-crowd-crush-simulation) — last pushed 5 Nov 2026
 - [Lab Asset Management](https://github.com/Dwijeshh/lab_asset_management2) — last pushed 5 Nov 2026
